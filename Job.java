@@ -1,6 +1,6 @@
 public class Job implements Runnable{
-    //class is upadated...
-    
+    //class is upadated...again...
+
     private int jobNumber;
     
     Job (int jobNumber){
