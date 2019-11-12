@@ -7,7 +7,7 @@ public class Job implements Runnable{
     
     public void run(){
         try {
-            Thread.sleep((int)1000) 
+            Thread.sleep((int)1000);
         }catch (InterruptionException e){
         
         }
